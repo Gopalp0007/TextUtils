@@ -1,9 +1,9 @@
 
-import  { useState } from 'react';
-import './App.css';
-import Navbar from './Component/Navbar';
-import TextForm from './Component/Textform';
-import Alert from './Component/Alert';
+// import  { useState } from 'react'
+// import './App.css';
+// import Navbar from './Component/Navbar';
+// import TextForm from './Component/Textform';
+// import Alert from './Component/Alert';
 
 
 // import {
